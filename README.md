@@ -1,4 +1,4 @@
-[GitHub_Profile_README.md](https://github.com/user-attachments/files/30428697/GitHub_Profile_README.md)
+[README.md](https://github.com/user-attachments/files/30431879/README.md)
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2E29,50:1B4B43,100:23695D&height=220&section=header&text=Dattatreya%20M%20K&fontSize=48&fontColor=E8C468&fontAlignY=38&desc=Aspiring%20Fintech%20Analyst%20%7C%20Full%20Stack%20Developer%20%7C%20Quant%20Finance&descAlignY=58&descColor=D8E8E3&animation=fadeIn" width="100%"/>
@@ -12,7 +12,7 @@
 <a href="https://leetcode.com/u/Dattatreya_MK">
   <img src="https://img.shields.io/badge/LeetCode-1B4B43?style=for-the-badge&logo=leetcode&logoColor=E8C468" />
 </a>
-<a href="https://dattatreya-07.github.io/InvestmentPortfolio/">
+<a href="https://portfolio-website-sigma-eight-15.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-1B4B43?style=for-the-badge&logo=googlechrome&logoColor=E8C468" />
 </a>
 
@@ -104,12 +104,12 @@ me = Dattatreya()
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dattatreya-07&show_icons=true&count_private=true&hide_border=true&title_color=E8C468&icon_color=E8C468&text_color=D8E8E3&bg_color=0F2E29" width="48%" />
+<img src="./profile/stats.svg" width="48%" />
 <img src="https://streak-stats.demolab.com/?user=dattatreya-07&hide_border=true&ring=E8C468&fire=E8C468&currStreakLabel=E8C468&background=0F2E29" width="48%" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dattatreya-07&layout=compact&hide_border=true&title_color=E8C468&text_color=D8E8E3&bg_color=0F2E29" width="48%" />
+<img src="./profile/top-langs.svg" width="48%" />
 
 <br/><br/>
 
@@ -119,7 +119,9 @@ me = Dattatreya()
 
 > LeetCode stats: **leetcode.com/u/Dattatreya_MK** — actively solving daily to keep DSA fundamentals sharp alongside fintech-focused projects.
 
-> 🔎 **Note:** these cards pull live data and can take 10–30 seconds to load on first visit, or occasionally show a broken icon if the free stats service is rate-limited. Refreshing the page usually fixes it — this is a known quirk of these free third-party services, not an error in your profile.
+> 🔎 **Note:** the stats and top-languages cards above are static SVGs generated daily by a GitHub Action in this repo (see `.github/workflows/stats.yml`) rather than pulled live from a third-party server — this avoids the rate-limiting and downtime issues that public stats services are prone to. The streak and activity-graph cards below still pull from external services and may occasionally show a broken icon if rate-limited; refreshing usually resolves it.
+>
+> ⚠️ Also — if you're checking the file's appearance from GitHub's **upload/edit preview screen** (the panel that says "Uploading ... .md"), animated elements like the typing banner often show as a frozen single frame there. This is a limitation of that preview panel only. Once the file is **committed** and you view it at `github.com/dattatreya-07` in a normal browser tab, it animates correctly.
 
 ---
 
