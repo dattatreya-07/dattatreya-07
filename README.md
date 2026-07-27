@@ -1,4 +1,4 @@
-[Uploading GitHub_Profile_README.md…]()
+[GitHub_Profile_README.md](https://github.com/user-attachments/files/30428697/GitHub_Profile_README.md)
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2E29,50:1B4B43,100:23695D&height=220&section=header&text=Dattatreya%20M%20K&fontSize=48&fontColor=E8C468&fontAlignY=38&desc=Aspiring%20Fintech%20Analyst%20%7C%20Full%20Stack%20Developer%20%7C%20Quant%20Finance&descAlignY=58&descColor=D8E8E3&animation=fadeIn" width="100%"/>
@@ -18,7 +18,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=1B4B43&center=true&vCenter=true&width=780&lines=Building+at+the+intersection+of+Software+Engineering+%26+Financial+Markets;NISM+Series+XV+(Research+Analyst)+%E2%80%94+In+Progress;Long-Term+Investor+%7C+NSE%2FBSE+%2B+NYSE%2FNASDAQ+Equities;MERN+%2B+Python+%2B+Generative+AI+%2F+LLM+Integration" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=1B4B43&center=true&vCenter=true&width=900&repeat=true&lines=Building+at+the+intersection+of+Software+Engineering+%26+Financial+Markets;NISM+Series+XV+(Research+Analyst)+%E2%80%94+In+Progress;Long-Term+Investor+%7C+NSE%2FBSE+%2B+NYSE%2FNASDAQ+Equities;MERN+Stack+%2B+Python+%2B+Generative+AI+Integration" alt="Typing SVG" />
 
 </div>
 
@@ -29,9 +29,9 @@
 ```python
 class Dattatreya:
     def __init__(self):
-        self.role          = "CSE Undergraduate | Aspiring Fintech Analyst"
+        self.role           = "CSE Undergraduate | Aspiring Fintech Analyst"
         self.institution    = "Mepco Schlenk Engineering College, Sivakasi"
-        self.certification   = "NISM Series XV — Research Analyst (In Progress)"
+        self.certification  = "NISM Series XV — Research Analyst (In Progress)"
         self.markets        = ["NSE", "BSE", "NYSE", "NASDAQ"]
         self.interests      = [
             "Quantitative Finance & Algorithmic Trading",
@@ -86,20 +86,40 @@ me = Dattatreya()
 
 ---
 
+## 🐍 Contribution Streak (Animated)
+
+<div align="center">
+
+<!--START_SECTION:snake-->
+<img src="https://raw.githubusercontent.com/dattatreya-07/dattatreya-07/output/github-contribution-grid-snake.svg" width="100%" alt="Animated contribution snake" />
+<!--END_SECTION:snake-->
+
+<sub>⚙️ This animation updates automatically every day via GitHub Actions — see setup steps below.</sub>
+
+</div>
+
+---
+
 ## 📊 GitHub & LeetCode Snapshot
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=dattatreya-07&show_icons=true&count_private=true&hide_border=true&title_color=E8C468&icon_color=E8C468&text_color=D8E8E3&bg_color=0F2E29" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dattatreya-07&hide_border=true&ring=E8C468&fire=E8C468&currStreakLabel=E8C468&background=0F2E29" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=dattatreya-07&hide_border=true&ring=E8C468&fire=E8C468&currStreakLabel=E8C468&background=0F2E29" width="48%" />
 
 <br/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dattatreya-07&layout=compact&hide_border=true&title_color=E8C468&text_color=D8E8E3&bg_color=0F2E29" width="48%" />
 
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dattatreya-07&theme=react-dark&bg_color=0F2E29&color=E8C468&line=E8C468&point=D8E8E3&hide_border=true" width="90%" />
+
 </div>
 
 > LeetCode stats: **leetcode.com/u/Dattatreya_MK** — actively solving daily to keep DSA fundamentals sharp alongside fintech-focused projects.
+
+> 🔎 **Note:** these cards pull live data and can take 10–30 seconds to load on first visit, or occasionally show a broken icon if the free stats service is rate-limited. Refreshing the page usually fixes it — this is a known quirk of these free third-party services, not an error in your profile.
 
 ---
 
