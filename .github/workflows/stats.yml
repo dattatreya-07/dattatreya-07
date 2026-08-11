@@ -32,10 +32,14 @@ jobs:
 
       - name: Commit and push cards
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
           git add profile/*.svg
-          git commit -m "Update README cards" || true
-          git push origin main
+          if git diff --quiet --cached; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update README cards"
+            git push
+          fi
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
